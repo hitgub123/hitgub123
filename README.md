@@ -1,4 +1,4 @@
-# MINASE
+# Profile
 
 > 🎯 **目标：生成 AI 应用工程师** ｜ 5 年日本 IT 业务系统开发经验（Java），自学转向 Python + LLM 应用开发
 
